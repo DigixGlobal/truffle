@@ -1,12 +1,11 @@
 {
-  "name": "truffle",
-  "namespace": "consensys",
-  "version": "3.4.9",
+  "name": "@digix/truffle",
+  "version": "3.4.9-solc-0.4.16-2",
   "description": "Truffle - Simple development framework for Ethereum",
   "dependencies": {
     "mocha": "^3.4.2",
     "original-require": "^1.0.1",
-    "solc": "0.4.15"
+    "solc": "0.4.16"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.16",
